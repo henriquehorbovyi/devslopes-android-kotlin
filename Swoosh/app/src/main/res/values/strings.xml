@@ -3,4 +3,14 @@
     <string name="welcome_activity_title">GO ALL IN</string>
     <string name="welcome_activity_subtitle">ON GOING ALL OUT</string>
     <string name="welcome_activity_staff">Find a team in your city, and dominate the league</string>
+    <string name="welcome_activity_getstarted">GET STARTED</string>
+    <string name="league_activity_desired_league">Desired League:</string>
+    <string name="league_activity_mens">Mens</string>
+    <string name="league_activity_womens">Womens</string>
+    <string name="league_activity_co_en">Co-ed</string>
+    <string name="league_activity_next">Next</string>
+    <string name="skill_activity_iam">I am a:</string>
+    <string name="skill_activity_beginner">Beginner</string>
+    <string name="skill_activity_baller">Baller</string>
+    <string name="skill_activity_finishButton">Finish</string>
 </resources>

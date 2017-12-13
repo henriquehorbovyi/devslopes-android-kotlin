@@ -4,4 +4,5 @@
     <color name="colorPrimaryDark">#3F3F3F</color>
     <color name="colorAccent">#FFFFFF</color>
     <color name="buttonBackground">#66000000</color>
+    <color name="toggleButtonOn">#592C3F</color>
 </resources>
