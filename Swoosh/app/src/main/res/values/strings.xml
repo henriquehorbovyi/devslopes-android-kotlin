@@ -13,4 +13,5 @@
     <string name="skill_activity_beginner">Beginner</string>
     <string name="skill_activity_baller">Baller</string>
     <string name="skill_activity_finishButton">Finish</string>
+    <string name="search_league_text">Looking for a co-ed beginner league near you...</string>
 </resources>
